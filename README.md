@@ -11,7 +11,7 @@ The project is written in Java and use the [Spring Boot](https://spring.io/proje
 
 ## About the service
 
-The map matching is perfomed based on map data from Open Street Map.
+The map matching is perfomed based on map data from Open Street Map. 
 
 NB! Currently, only trips in the Chinese city [Chengdu](https://goo.gl/maps/G99BkaDptNdFfw5H7) can be map matched. If you wish to map match another area, fork the project and follow the instructions described in [Import a new map](#import-a-new-map).
 
