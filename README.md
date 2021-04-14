@@ -7,7 +7,7 @@ The service makes use of the open source GraphHopper routing libraries:
 - https://github.com/graphhopper/map-matching
 - https://github.com/graphhopper/graphhopper
 
-The project is written in Java and use the [Spring Boot](https://spring.io/projects/spring-boot) web framework. 
+The project is written in Java and use the [Spring Boot](https://spring.io/projects/spring-boot) web framework.  
 
 ## About the service
 
